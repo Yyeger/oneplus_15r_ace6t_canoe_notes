@@ -8,15 +8,15 @@ This repository serves as a centralized hub for information regarding the **OneP
 | :--- | :--- |
 | **Codename** | `Macan` |
 | **China Model** | OnePlus Ace 6T (`PLR110`) |
-| **India Model** | OnePlus 15R (`CPH2767`*) |
+| **India Model** | OnePlus 15R (`CPH2767`) |
 | **NA Model** | OnePlus 15R (`CPH2771`) |
 | **Global/EU Model** | OnePlus 15R (`CPH2769`) |
-| **Platform** | Qualcomm Snapdragon 8 Gen 5 (SM8845) CANOE|
+| **Platform** | Qualcomm Snapdragon 8 Gen 5 (SM8845) |
 
 
 > [!IMPORTANT]  
 > **SoC Note:** This device uses the **SM8845**. Please note that this is the Snapdragon 8 Gen 5, **not** the 8 Elite Gen 5.
-> 
+>    The codename for the platform is `Canoe`
 > [Detailed SoC Product Brief](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Product-Brief-Snapdragon-8-Gen-5.pdf)
 
 ---
