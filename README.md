@@ -1,4 +1,4 @@
-# OnePlus 15R / Ace 6T (Canoe) Development
+# OnePlus 15R / Ace 6T (Macan) Development
 
 This repository serves as a centralized hub for information regarding the **OnePlus 15R** (Global) and **OnePlus Ace 6T** (China). The ultimate goal is the development of a functional Device Tree and the subsequent porting of **LineageOS**.
 
@@ -6,17 +6,18 @@ This repository serves as a centralized hub for information regarding the **OneP
 
 | Feature | Details |
 | :--- | :--- |
-| **Codename** | `Canoe` |
+| **Codename** | `Macan` |
 | **China Model** | OnePlus Ace 6T (`PLR110`) |
-| **Global/India Model** | OnePlus 15R (`CPH2769` / `CPH2767`*) |
-| **Platform** | Qualcomm Snapdragon 8 Gen 5 (SM8845) |
+| **India Model** | OnePlus 15R (`CPH2767`*) |
+| **NA Model** | OnePlus 15R (`CPH2771`) |
+| **Global/EU Model** | OnePlus 15R (`CPH2769`) |
+| **Platform** | Qualcomm Snapdragon 8 Gen 5 (SM8845) CANOE|
+
 
 > [!IMPORTANT]  
 > **SoC Note:** This device uses the **SM8845**. Please note that this is the Snapdragon 8 Gen 5, **not** the 8 Elite Gen 5.
 > 
 > [Detailed SoC Product Brief](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Product-Brief-Snapdragon-8-Gen-5.pdf)
-
-*\*Exact model code for Global/India regions is still being verified.*
 
 ---
 
