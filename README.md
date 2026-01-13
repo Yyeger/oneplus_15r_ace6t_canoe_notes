@@ -11,12 +11,12 @@ This repository serves as a centralized hub for information regarding the **OneP
 | **India Model** | OnePlus 15R (`CPH2767`) |
 | **NA Model** | OnePlus 15R (`CPH2771`) |
 | **Global/EU Model** | OnePlus 15R (`CPH2769`) |
-| **Platform** | Qualcomm Snapdragon 8 Gen 5 (SM8845) |
+| **Platform** | Qualcomm Snapdragon 8 Gen 5 (SM8845) `Canoe` |
 
 
 > [!IMPORTANT]  
-> **SoC Note:** This device uses the **SM8845** platform. Please note that this is the Snapdragon 8 Gen 5, **not** the 8 Elite Gen 5.
->    The codename for the platform is still unclear, `canoe` refers to the SM8850 which is the Snapdragon 8 Elite Gen 5.
+> **SoC Note:** This device uses the **SM8845** platform. Please note that this is the Snapdragon 8 Gen 5, **not** the 8 Elite Gen 5 SM8850.\n
+>  The codename for the platform is `canoe` and is shared by both platforms, this should make working on the devices easier as fixes should be the same.
 > [Detailed SoC Product Brief](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/Product-Brief-Snapdragon-8-Gen-5.pdf)
 
 ---
