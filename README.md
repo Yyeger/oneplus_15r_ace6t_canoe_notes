@@ -13,6 +13,9 @@ This repository serves as a centralized hub for information regarding the **OneP
 | **Global/EU Model** | OnePlus 15R (`CPH2769`) |
 | **Platform** | Qualcomm Snapdragon 8 Gen 5 (SM8845) `Canoe` |
 
+| Variant | ro.product.device |
+| **PLR110** |  OP6117L1 |
+OP6117L1
 
 > [!IMPORTANT]  
 > **SoC Note:** This device uses the **SM8845** platform. Please note that this is the Snapdragon 8 Gen 5, **not** the 8 Elite Gen 5 SM8850.\n
